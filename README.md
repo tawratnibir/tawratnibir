@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @tawratnibir
-- 👀 I’m interested in watching movies, playing soccer, learning to code, solving problems related to CP
-- 🌱 I’m currently learning cp
-- 💞️ I’m looking to collaborate on dunno
-- 📫 How to reach me: Ghost
-- 😄 Pronouns: He, him
+- 👀 I’m interested in watching movies, playing soccer, learning to code, solving problems with coding
+- 🌱 I’m currently learning to code
+- 📫 How to reach me: tawratnibir@gmail.com
 - ⚡ Fun fact: you are wearing a headphone
 
 <!---
